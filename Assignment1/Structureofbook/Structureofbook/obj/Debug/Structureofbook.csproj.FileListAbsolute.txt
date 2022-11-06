@@ -1,0 +1,8 @@
+C:\Users\pinky\source\repos\Structureofbook\Structureofbook\bin\Debug\Structureofbook.exe.config
+C:\Users\pinky\source\repos\Structureofbook\Structureofbook\bin\Debug\Structureofbook.exe
+C:\Users\pinky\source\repos\Structureofbook\Structureofbook\bin\Debug\Structureofbook.pdb
+C:\Users\pinky\source\repos\Structureofbook\Structureofbook\obj\Debug\Structureofbook.csproj.AssemblyReference.cache
+C:\Users\pinky\source\repos\Structureofbook\Structureofbook\obj\Debug\Structureofbook.csproj.SuggestedBindingRedirects.cache
+C:\Users\pinky\source\repos\Structureofbook\Structureofbook\obj\Debug\Structureofbook.csproj.CoreCompileInputs.cache
+C:\Users\pinky\source\repos\Structureofbook\Structureofbook\obj\Debug\Structureofbook.exe
+C:\Users\pinky\source\repos\Structureofbook\Structureofbook\obj\Debug\Structureofbook.pdb

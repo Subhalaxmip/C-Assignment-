@@ -1,0 +1,8 @@
+C:\Users\pinky\source\repos\Areaandcircumference\Areaandcircumference\bin\Debug\Areaandcircumference.exe.config
+C:\Users\pinky\source\repos\Areaandcircumference\Areaandcircumference\bin\Debug\Areaandcircumference.exe
+C:\Users\pinky\source\repos\Areaandcircumference\Areaandcircumference\bin\Debug\Areaandcircumference.pdb
+C:\Users\pinky\source\repos\Areaandcircumference\Areaandcircumference\obj\Debug\Areaandcircumference.csproj.AssemblyReference.cache
+C:\Users\pinky\source\repos\Areaandcircumference\Areaandcircumference\obj\Debug\Areaandcircumference.csproj.SuggestedBindingRedirects.cache
+C:\Users\pinky\source\repos\Areaandcircumference\Areaandcircumference\obj\Debug\Areaandcircumference.csproj.CoreCompileInputs.cache
+C:\Users\pinky\source\repos\Areaandcircumference\Areaandcircumference\obj\Debug\Areaandcircumference.exe
+C:\Users\pinky\source\repos\Areaandcircumference\Areaandcircumference\obj\Debug\Areaandcircumference.pdb

@@ -1,0 +1,8 @@
+C:\Users\pinky\source\repos\AvgNumber\AvgNumber\bin\Debug\AvgNumber.exe.config
+C:\Users\pinky\source\repos\AvgNumber\AvgNumber\bin\Debug\AvgNumber.exe
+C:\Users\pinky\source\repos\AvgNumber\AvgNumber\bin\Debug\AvgNumber.pdb
+C:\Users\pinky\source\repos\AvgNumber\AvgNumber\obj\Debug\AvgNumber.csproj.AssemblyReference.cache
+C:\Users\pinky\source\repos\AvgNumber\AvgNumber\obj\Debug\AvgNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\pinky\source\repos\AvgNumber\AvgNumber\obj\Debug\AvgNumber.csproj.CoreCompileInputs.cache
+C:\Users\pinky\source\repos\AvgNumber\AvgNumber\obj\Debug\AvgNumber.exe
+C:\Users\pinky\source\repos\AvgNumber\AvgNumber\obj\Debug\AvgNumber.pdb

@@ -1,0 +1,8 @@
+C:\Users\pinky\source\repos\Swappingtwonumber\Swappingtwonumber\bin\Debug\Swappingtwonumber.exe.config
+C:\Users\pinky\source\repos\Swappingtwonumber\Swappingtwonumber\bin\Debug\Swappingtwonumber.exe
+C:\Users\pinky\source\repos\Swappingtwonumber\Swappingtwonumber\bin\Debug\Swappingtwonumber.pdb
+C:\Users\pinky\source\repos\Swappingtwonumber\Swappingtwonumber\obj\Debug\Swappingtwonumber.csproj.AssemblyReference.cache
+C:\Users\pinky\source\repos\Swappingtwonumber\Swappingtwonumber\obj\Debug\Swappingtwonumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\pinky\source\repos\Swappingtwonumber\Swappingtwonumber\obj\Debug\Swappingtwonumber.csproj.CoreCompileInputs.cache
+C:\Users\pinky\source\repos\Swappingtwonumber\Swappingtwonumber\obj\Debug\Swappingtwonumber.exe
+C:\Users\pinky\source\repos\Swappingtwonumber\Swappingtwonumber\obj\Debug\Swappingtwonumber.pdb
